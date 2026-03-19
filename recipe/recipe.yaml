@@ -11,7 +11,7 @@ source:
   sha256: 06d906512c6745a95c6eb6c7b5f2e2de95a037d45573e65b2fc4c7db1318d562
 
 build:
-  number: ${{ build_num }}
+  number: 1
   skip:
     - win
 
